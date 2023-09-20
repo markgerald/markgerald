@@ -10,7 +10,7 @@
 <a href="https://dev.to/markgerald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="markgerald" height="30" width="40" /></a>
 <a href="https://twitter.com/mark_gerald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mark_gerald" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/markgerald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="markgerald" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/techistorias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techistorias" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@techistorias" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techistorias" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
