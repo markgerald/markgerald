@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">A Solutions Architect, Senior Software Engineer</h3>
+<h3 align="center">A Solutions Architect, SRE, Lead Software Engineer</h3>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
